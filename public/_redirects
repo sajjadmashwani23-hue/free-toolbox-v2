@@ -1,0 +1,12 @@
+# Legacy /tools/<tool> URLs -> canonical /<tool> (permanent).
+# Add a line here whenever you add a new tool.
+/tools/qr-code-generator /qr-code-generator 301
+/tools/image-compressor /image-compressor 301
+/tools/image-resizer /image-resizer 301
+/tools/jpg-to-png /jpg-to-png 301
+/tools/png-to-jpg /png-to-jpg 301
+/tools/webp-converter /webp-converter 301
+/tools/image-to-pdf /image-to-pdf 301
+/tools/merge-pdf /merge-pdf 301
+/tools/word-counter /word-counter 301
+/tools/json-formatter /json-formatter 301

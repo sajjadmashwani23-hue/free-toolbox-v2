@@ -1,0 +1,8 @@
+{
+  "name": "FreeToolBox - Free Online Tools",
+  "description": "Fast, private, and free online tools to convert, compress, generate, and format files and data directly in your browser without uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
